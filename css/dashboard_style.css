@@ -1,0 +1,1343 @@
+@font-face {
+    font-family: 'Bahnschrift';
+    src: url('../ban_font/BAHNSCHRIFT\ 1.TTF') format('truetype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Bahnschrift';
+    src: url('../ban_font/BAHNSCHRIFT\ 1.TTF') format('truetype');
+    font-weight: 350;
+}
+
+@font-face {
+    font-family: 'Bahnschrift';
+    src: url('../ban_font/BAHNSCHRIFT\ 1.TTF') format('truetype');
+    font-weight: 400;
+}
+
+.immg{
+    background-image: url('../img/carousel1.jpg');
+    background-repeat: no-repeat !important;
+    background-position: center;
+    height: 100vh;
+} 
+.navvv {
+    border-radius: 10%;
+}
+.nav_color {
+    background-color: #234030;
+}
+.nav_items {
+    margin-left: 15% !important;
+}
+.navbar-nav a.active {
+    border-bottom: 3px solid #E1A322;;
+  }
+.nav-item  {
+    font-family: 'Bahnschrift','sans-serif' !important;
+    /* font-family: 'sans-serif'; */
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    line-height: 19px !important;
+    /* letter-spacing: 0.09em !important; */
+    text-transform: uppercase !important;
+    color: white !important;
+}
+.nav-item:hover {
+    color: #3E9967 !important;
+    /* border-bottom: 3px solid #E1A322;; */
+}
+.btn {
+    background: #E1A322;
+    border-radius: 4.23913px;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+.btn:hover {
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #f6a90300;
+    border-radius: 4.23913px;
+    color: white;
+}
+/* nav_bar ends */
+
+
+
+/* hero_text starts */
+.hero-con {
+    margin-top: 12%;
+}
+.hero-h1 {
+font-family: 'Bahnschrift','sans-serif';
+font-style: normal;
+font-weight: 700;
+font-size: 62px;
+line-height: 74px;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+.button_1 {
+padding: 2% 3%;
+background: #E1A322;
+border-radius: 10px;
+color: white;
+letter-spacing: 0.09em;
+text-transform: uppercase;
+font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 700;
+font-size: 16.6486px;
+line-height: 20px;
+border: 1px solid rgba(255, 255, 255, 0);
+}
+.button_1:hover {
+    background-color:  #ffffff00;
+    border: 1px solid white;
+}
+
+.button_2 {
+    padding: 2% 3%;
+    background: #775c2400;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    font-family: 'Bahnschrift';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16.6486px;
+    line-height: 20px;
+    }
+.button_2:hover {
+    background-color:  #E1A322;
+    border: none;
+    }
+
+/* hero_text ends */
+
+/* our products */
+.product-container {
+    margin-top: 25%;
+    background-color: white !important;
+    padding-bottom: 6% !important;
+}
+.product-card {
+    margin-top: -14% !important;
+}
+.product1 {
+margin-top: 3%;
+font-family: 'Bahnschrift','sans-serif';
+font-style: normal;
+font-weight: 400;
+font-size: 21.6486px;
+line-height: 26px;
+text-transform: uppercase;
+color: #234030;
+}
+.product2 {
+    font-family: 'Bahnschrift','sans-serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 62px;
+    text-transform: capitalize; 
+    color: #234030;
+    }
+.product3 {
+    font-family: 'Bahnschrift','sans-serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    text-transform: capitalize;
+    color: #234030;
+        }
+.product4 {
+    font-family: 'Bahnschrift','sans-serif';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 18px;
+    line-height: 157.02%;
+    color: #555555;
+            }
+.product5 {
+font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+text-transform: capitalize;
+color: #234030;
+            }
+.product-pic {
+    margin-top: 14% !important;
+}
+.product-pic-middle {
+    margin-top: 18% !important;
+}
+/* our products */
+
+/* brand */
+.brand1 {
+margin-top: 4%;
+font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+text-transform: uppercase;
+color: #234030;
+}
+.brand2 {
+    margin-top: 9% !important;
+}
+/* brand */
+
+/* reviews */
+.review1 {
+    margin-top: 10%;
+font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+text-transform: uppercase;
+color: #234030;
+}
+.review2 {
+    font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 62px;
+text-align: center;
+text-transform: capitalize;
+margin-top: 4%;
+color: #234030;
+}
+.review3 {
+    margin-top: 7%;
+}
+.review4 {
+font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 350;
+font-size: 23px;
+line-height: 35px;
+text-transform: capitalize;
+color: #234030;
+
+}
+.review5 {
+    font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 21px;
+text-transform: capitalize;
+color: #000000;
+}
+.card {
+    border: none !important;
+}
+/* reviews */
+
+/* distribte */
+.distribte1 {
+    margin-top: 10%;
+}
+.distribte2 {
+    font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 400;
+font-size: 21.6486px;
+line-height: 26px;
+text-transform: uppercase;
+color: #234030;
+}
+.distribte3 {
+    font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 62px;
+text-transform: capitalize;
+color: #234030;
+}
+.distribte4 {
+    font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 700;
+font-size: 20.1765px;
+line-height: 24px;
+text-transform: capitalize;
+color: #234030;
+
+}
+.distribte5 {
+    font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 300;
+font-size: 20.1765px;
+line-height: 24px;
+text-transform: capitalize;
+color: #234030;
+}
+.media {
+    margin-top: 20% !important;
+}
+/* distribte */
+/* background-image */
+.bg-img {
+    background-image: url('../img/image\ 8.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    margin-top: -120%;
+}
+/* background-image */
+
+/* footer */
+.foot1 {
+    font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 700;
+font-size: 18.32px;
+line-height: 22px;
+text-transform: uppercase;
+color: #234030;
+}
+.foot2 {
+    font-family: 'Bahnschrift';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 18px;
+    line-height: 22px;
+    color: #234030;
+}
+.copy {
+    font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 350;
+font-size: 15.3192px;
+line-height: 24px;
+
+color: #234030;
+}
+/* footer */
+
+
+
+
+
+
+  /* about us page ********************************************************************* */
+  .hero-immg {
+    background-image: url('../img/image\ 8.png');
+    background-repeat: no-repeat !important;
+    background-position: center;
+    height: 100vh;
+  }
+  /* hero-section */
+  .hero1 {
+    margin-top: 18%;
+    font-family: 'Bahnschrift';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #234030;
+  }
+  .hero2 {
+    margin-top: 3%;
+    font-family: 'Bahnschrift';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #555555;
+  }
+  .hero3 {
+    margin-top: 3%;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 137.5%;
+    text-align: center;
+    color: #606060;
+  }
+    /* hero-section */
+
+    /* section1 */
+    .secc {
+        margin-top: 17% !important;
+    }
+    .seccc {
+        margin-top: 10% !important;
+    }
+    .sec1 {
+    font-family: 'Bahnschrift';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #555555;
+    }
+    .sec2 {
+    font-family: 'Bahnschrift';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 18px;
+    line-height: 157.02%;
+    color: #555555;
+    }
+    /* section1 */
+    /* about us page ********************************************************************* */
+
+
+    /* PRODUCT PAGE ****************************************************************** */
+    .product-plantain-container {
+        margin-top: 10%;
+    }
+    .product-plantain {
+        margin-top: 10%;
+    }
+    .plantain-text {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 62px;
+        line-height: 74px;
+        text-transform: capitalize;
+        color: #234030;
+    }
+    .plantain-text-head {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 38px;
+        color: #234030;
+    }
+    .plaintain-text-para {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 350;
+        font-size: 18px;
+        line-height: 157.02%;
+        color: #555555;
+    }
+    .plaintain-product-img {
+        margin-top: 10%;
+    }
+    .product-img-1 {
+        width: 270px;
+        height: 288px;
+        left: 0;
+        top: 0;
+    }
+    .product-img-2 {
+        width: 416px;
+        height: 288px;
+        margin-left: -90px;
+        top: 0;
+    }
+    .product-img-3 {
+        width: 400px;
+        height: 288px;
+        margin-left: -40px;
+        top: 0;
+    }
+    .egg-product-container {
+        margin-top: 15%;
+    }
+    .egg-text {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 62px;
+        line-height: 74px;
+        text-transform: capitalize;
+        color: #234030;
+    }
+    .egg-para {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 350;
+        font-size: 18px;
+        line-height: 157.02%;
+        color: #555555;
+    }
+    .egg-product-1 {
+        margin-top: 12%;
+    }
+    .egg-product-2 {
+        background-color: #EBDB57;
+        padding-top: 4%;
+        padding-left: 4%;
+        padding-right: 4%;
+        padding-bottom: 0;
+        border-radius: 10px;
+        border-bottom: 5px white solid;
+    }
+
+     /* PRODUCT PAGE ****************************************************************** */
+
+
+     /* GREENCOLIFE PAGE **************************************************************** */
+
+     .greenco-cont {
+        margin-top: 12%;
+     }
+     .greenco-hero-text {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 50px;
+        line-height: 60px;
+        text-transform: capitalize;
+        color: #234030;
+     }
+     .greenco-hero-para {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 32px;
+        color: #555555;
+     }
+     .greenco-hero-link{
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20.1765px;
+        line-height: 24px;
+        text-transform: capitalize;
+
+        color: #234030;
+     }
+     /* GREENCOLIFE PAGE **************************************************************** */
+
+
+     /* ourteam ********************************************************************* */
+     .team-text {
+        margin-top: 10%;
+        text-align: center;
+        margin-bottom: 8%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 32px;
+        line-height: 38px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #234030;
+     }
+     .person-1 {
+        border-radius: 100% !important;
+        height: 180px !important;
+        width: 180px !important;
+     }
+     .card-text-name {
+        margin-top: 28px;
+        margin-left: 25px;
+        margin-bottom: -17px;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 38px;
+        color: #234030;
+     }
+     .card-text-para {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 26px;
+        color: #555555;
+     }
+     /* ourteam ********************************************************************* */
+
+
+     /* contact--form******************************************************************** */
+     .cont-bg {
+        background-color: #3E9967;
+     }
+     .cont-footer {
+        background-color: white;
+     }
+     input[type=text], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        outline: none;
+      }
+      input[type=tel] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        outline: none;
+      }
+      input[type=email] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        outline: none;
+      }
+      textarea {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        outline: none;
+      }
+      
+      input[type=submit] {
+        margin-left: 58.6%;
+        width: 40%;
+        background-color:  #FEC037;
+        color: white;
+        padding: 14px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        outline: none;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20.5982px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.09em;
+        text-transform: uppercase;
+      }
+      
+      input[type=submit]:hover {
+        background-color:  #f6a903;
+        outline: none;
+      }
+     /* contact--form******************************************************************** */
+    
+
+
+
+
+
+
+    @media only screen and (max-width: 768px) {
+        /* For mobile phones: */
+        /* body{
+            background-image: url('../img/carousel1.jpg');
+            background-repeat: no-repeat !important;
+            background-position: center;
+            
+        } */
+        .button_1 {
+            padding: 5% 5%;
+            font-size: 18px;
+            font-weight: 200;
+        }
+        .button_2 {
+            visibility: hidden;
+        }
+        .product-img {
+            width: 100%;
+        }
+        .hero-h1 {
+            margin-top: 4%;
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 45px;
+            line-height: 48px;
+            text-transform: capitalize;
+            color: #FFFFFF;
+        }
+        .product1 {
+            margin-top: 19%;
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-size: 30px;
+            text-transform: capitalize;
+        }
+        .product2 {
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 52px;
+            line-height: 20px;
+            text-transform: capitalize; 
+            color: #234030;
+            }
+        .product-card {
+            margin-top: 10% !important;
+            }
+        .product3 {
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px !important;
+            line-height: 38px;
+            text-transform: capitalize;
+            color: #234030;
+                    }
+        .brand1 {
+            margin-top: 19%;
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-size: 30px;
+            text-transform: capitalize !important; 
+        }
+        .brand2 {
+            margin-top: 9% !important;
+            text-align: center;
+        }
+        .review1 {
+            margin-top: 19%;
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-size: 30px;
+            text-transform: capitalize !important;  
+        }
+        .review2 {
+            margin-top: 3% !important;
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 52px !important;
+            line-height: 46px;
+            text-transform: capitalize; 
+            color: #234030;
+            }
+        .foot1 {
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 14.32px;
+            line-height: 22px;
+            text-transform: uppercase;
+            color: #234030;
+            }
+        .foot11 {
+            margin-top: 14%;
+        }
+        .foot2 {
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 350;
+            font-size: 18px;
+            line-height: 22px;
+            color: #234030;
+        }
+        /* about us page ********************************************************************* */
+        .sec-imgg {
+            width: 100%;
+        }
+        /* about us page ********************************************************************* */
+
+
+
+
+        /* PRODUCT PAGE ****************************************************************** */
+        .plaintain-hero-img {
+            width: 100%;
+           
+        }
+        .plantain-text {
+            margin-left: 0;
+            margin-top: 12px;
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 45px;
+            line-height: 48px;
+            text-transform: capitalize;
+        }
+        .plantain-text-head {
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 28px;
+            line-height: 38px;
+        }
+        .product-img-1 {
+            margin-top: 7px;
+            width: 100%;
+            
+        }
+        .product-img-2 {
+            width: 100%;
+            margin-left: 1px;
+            margin-top: 16px;
+        }
+        .product-img-3 {
+            width: 100%;
+            margin-left: 1px;
+            margin-top: 16px;
+        }
+        .egg-mobile {
+            width: 100%;
+            margin-top: 16px;
+        }
+        .egg-product-2 {
+            width: 100%;
+            
+        }
+        /* PRODUCT PAGE ****************************************************************** */
+
+        /* GREENCOLIFE PAGE **************************************************************** */
+     .greenco-img {
+        width: 100%;
+     }
+     /* GREENCOLIFE PAGE **************************************************************** */
+     /* ourteam ********************************************************************* */
+     .team-text {
+        text-align: center;
+        margin-bottom: 50px;
+        
+     }
+     .team-one {
+        justify-content: center;
+     }
+     /* ourteam ********************************************************************* */
+     .txt-ara {
+        width: 100%;
+     }
+     .sub {
+        margin-left: 55.8% !important;
+     }
+      }
+    
+
+
+
+
+
+  @media only screen and (max-width: 600px) {
+    /* For mobile phones: */
+    /* body{
+        background-image: url('../img/carousel1.jpg');
+        background-repeat: no-repeat !important;
+        background-position: center;
+        
+    } */
+    .button_1 {
+        padding: 5% 5%;
+        font-size: 18px;
+        font-weight: 200;
+    }
+    .button_2 {
+        visibility: hidden;
+    }
+    .product-img {
+        width: 100%;
+    }
+    .hero-h1 {
+        margin-top: 4%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 48px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+    .product1 {
+        margin-top: 19%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-size: 30px;
+        text-transform: capitalize;
+    }
+    .product2 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 52px;
+        line-height: 20px;
+        text-transform: capitalize; 
+        color: #234030;
+        }
+    .product-card {
+        margin-top: 10% !important;
+        }
+    .product3 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px !important;
+        line-height: 38px;
+        text-transform: capitalize;
+        color: #234030;
+                }
+    .brand1 {
+        margin-top: 19%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-size: 30px;
+        text-transform: capitalize !important; 
+    }
+    .brand2 {
+        margin-top: 9% !important;
+        text-align: center;
+    }
+    .review1 {
+        margin-top: 19%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-size: 30px;
+        text-transform: capitalize !important;  
+    }
+    .review2 {
+        margin-top: 3% !important;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 52px !important;
+        line-height: 46px;
+        text-transform: capitalize; 
+        color: #234030;
+        }
+    .foot1 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14.32px;
+        line-height: 22px;
+        text-transform: uppercase;
+        color: #234030;
+        }
+    .foot11 {
+        margin-top: 14%;
+    }
+    .foot2 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 350;
+        font-size: 18px;
+        line-height: 22px;
+        color: #234030;
+    }
+            /* about us page ********************************************************************* */
+            .sec-imgg {
+                width: 100%;
+            }
+            /* about us page ********************************************************************* */
+
+        /* PRODUCT PAGE ****************************************************************** */
+        .plaintain-hero-img {
+            width: 100%;
+           
+        }
+        .plantain-text {
+            margin-left: 0;
+            margin-top: 12px;
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 45px;
+            line-height: 48px;
+            text-transform: capitalize;
+        }
+        .plantain-text-head {
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 28px;
+            line-height: 38px;
+        }
+        .product-img-1 {
+            margin-top: 7px;
+            width: 100%;
+            
+        }
+        .product-img-2 {
+            width: 100%;
+            margin-left: 1px;
+            margin-top: 16px;
+        }
+        .product-img-3 {
+            width: 100%;
+            margin-left: 1px;
+            margin-top: 16px;
+        }
+        .egg-mobile {
+            width: 100%;
+            margin-top: 16px;
+        }
+        .egg-product-2 {
+            width: 100%;
+            
+        }
+        /* PRODUCT PAGE ****************************************************************** */
+ 
+
+
+        /* GREENCOLIFE PAGE **************************************************************** */
+     .greenco-img {
+        width: 100%;
+     }
+     /* GREENCOLIFE PAGE **************************************************************** */
+  }
+
+
+
+
+  @media only screen and (max-width: 992px) {
+    /* For mobile phones: */
+    /* body{
+        background-image: url('../img/carousel1.jpg');
+        background-repeat: no-repeat !important;
+        background-position: center;
+        
+    } */
+    .button_1 {
+        padding: 5% 5%;
+        font-size: 18px;
+        font-weight: 200;
+    }
+    .button_2 {
+        visibility: hidden;
+    }
+    .product-img {
+        width: 100%;
+    }
+    .hero-h1 {
+        margin-top: 4%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 48px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+    .product1 {
+        margin-top: 19%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-size: 30px;
+        text-transform: capitalize;
+    }
+    .product2 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 52px;
+        line-height: 20px;
+        text-transform: capitalize; 
+        color: #234030;
+        }
+    .product-card {
+        margin-top: 10% !important;
+        }
+    .product3 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px !important;
+        line-height: 38px;
+        text-transform: capitalize;
+        color: #234030;
+                }
+    .brand1 {
+        margin-top: 19%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-size: 30px;
+        text-transform: capitalize !important; 
+    }
+    .brand2 {
+        margin-top: 9% !important;
+        text-align: center;
+    }
+    .review1 {
+        margin-top: 19%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-size: 30px;
+        text-transform: capitalize !important;  
+    }
+    .review2 {
+        margin-top: 3% !important;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 52px !important;
+        line-height: 46px;
+        text-transform: capitalize; 
+        color: #234030;
+        }
+    .foot1 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14.32px;
+        line-height: 22px;
+        text-transform: uppercase;
+        color: #234030;
+        }
+    .foot11 {
+        margin-top: 14%;
+    }
+    .foot2 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 350;
+        font-size: 18px;
+        line-height: 22px;
+        color: #234030;
+    }
+            /* about us page ********************************************************************* */
+            .sec-imgg {
+                width: 100%;
+            }
+            /* about us page ********************************************************************* */
+
+            /* PRODUCT PAGE ****************************************************************** */
+            .plaintain-hero-img {
+                width: 100%;
+               
+            }
+            .plantain-text {
+                margin-left: 0;
+                margin-top: 12px;
+                font-family: 'Bahnschrift';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 45px;
+                line-height: 48px;
+                text-transform: capitalize;
+            }
+            .plantain-text-head {
+                font-family: 'Bahnschrift';
+                font-style: normal;
+                font-weight: 600;
+                font-size: 28px;
+                line-height: 38px;
+            }
+            .product-img-1 {
+                margin-top: 7px;
+                width: 100%;
+                
+            }
+            .product-img-2 {
+                width: 100%;
+                margin-left: 1px;
+                margin-top: 16px;
+            }
+            .product-img-3 {
+                width: 100%;
+                margin-left: 1px;
+                margin-top: 16px;
+            }
+            .egg-mobile {
+                width: 100%;
+                margin-top: 16px;
+            }
+            .egg-product-2 {
+                width: 100%;
+                
+            }
+            /* PRODUCT PAGE ****************************************************************** */
+
+        /* GREENCOLIFE PAGE **************************************************************** */
+     .greenco-img {
+        width: 100%;
+     }
+     /* GREENCOLIFE PAGE **************************************************************** */
+  }
+
+
+
+
+
+  @media only screen and (max-width: 1200px) {
+    /* For mobile phones: */
+    /* body{
+        background-image: url('../img/carousel1.jpg');
+        background-repeat: no-repeat !important;
+        background-position: center;
+        
+    } */
+    .button_1 {
+        padding: 5% 5%;
+        font-size: 18px;
+        font-weight: 200;
+    }
+    .button_2 {
+        visibility: hidden;
+    }
+    .product-img {
+        width: 100%;
+    }
+    .hero-h1 {
+        margin-top: 4%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 48px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+    .product1 {
+        margin-top: 19%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-size: 30px;
+        text-transform: capitalize;
+    }
+    .product2 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 52px;
+        line-height: 20px;
+        text-transform: capitalize; 
+        color: #234030;
+        }
+    .product-card {
+        margin-top: 10% !important;
+        }
+    .product3 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px !important;
+        line-height: 38px;
+        text-transform: capitalize;
+        color: #234030;
+                }
+    .brand1 {
+        margin-top: 19%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-size: 30px;
+        text-transform: capitalize !important; 
+    }
+    .brand2 {
+        margin-top: 9% !important;
+        text-align: center;
+    }
+    .review1 {
+        margin-top: 19%;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-size: 30px;
+        text-transform: capitalize !important;  
+    }
+    .review2 {
+        margin-top: 3% !important;
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 52px !important;
+        line-height: 46px;
+        text-transform: capitalize; 
+        color: #234030;
+        }
+    .foot1 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14.32px;
+        line-height: 22px;
+        text-transform: uppercase;
+        color: #234030;
+        }
+    .foot11 {
+        margin-top: 14%;
+    }
+    .foot2 {
+        font-family: 'Bahnschrift';
+        font-style: normal;
+        font-weight: 350;
+        font-size: 18px;
+        line-height: 22px;
+        color: #234030;
+    }
+            /* about us page ********************************************************************* */
+            .sec-imgg {
+                width: 100%;
+            }
+            /* about us page ********************************************************************* */
+
+                   /* PRODUCT PAGE ****************************************************************** */
+        .plaintain-hero-img {
+            width: 100%;
+           
+        }
+        .plantain-text {
+            margin-left: 0;
+            margin-top: 12px;
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 45px;
+            line-height: 48px;
+            text-transform: capitalize;
+        }
+        .plantain-text-head {
+            font-family: 'Bahnschrift';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 28px;
+            line-height: 38px;
+        }
+        .product-img-1 {
+            margin-top: 7px;
+            width: 100%;
+            
+        }
+        .product-img-2 {
+            width: 100%;
+            margin-left: 1px;
+            margin-top: 16px;
+        }
+        .product-img-3 {
+            width: 100%;
+            margin-left: 1px;
+            margin-top: 16px;
+        }
+        .egg-mobile {
+            width: 100%;
+            margin-top: 16px;
+        }
+        .egg-product-2 {
+            width: 100%;
+            
+        }
+        /* PRODUCT PAGE ****************************************************************** */
+
+         /* GREENCOLIFE PAGE **************************************************************** */
+     .greenco-img {
+        width: 100%;
+     }
+     /* GREENCOLIFE PAGE **************************************************************** */
+    }
